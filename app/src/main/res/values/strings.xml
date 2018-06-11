@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MUSIC</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="ok">Ok</string>
+    <string name="text_icon">⋮</string>
+    <string name="time">3:05</string>
+    <string name="name_song">Titre de la chanson</string>
+</resources>
